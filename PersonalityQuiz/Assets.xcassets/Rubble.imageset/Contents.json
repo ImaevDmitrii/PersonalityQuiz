@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Rubble.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
